@@ -1,0 +1,5 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+image1.jpg,4640,3480,aeroplane,349,1356,2296,2892
+image1.jpg,4640,3480,cup,2291,287,4122,2240
+image2.jpg,4640,3480,scissor,296,1098,2338,2703
+image2.jpg,4640,3480,book,1033,335,4443,1413
