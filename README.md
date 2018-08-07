@@ -15,3 +15,6 @@ python YourDirectory\xml_to_csv_test\xml_to_csv.py --traindir= FullDirectorypath
 --testdir is an optional argument that can be passed only if you xmls in your testing directory as well, else --traindir alone is sufficient.
 
 The provided repo, has some sample images, annotations and their data in csv accordingly
+
+# About - SearchinZip.py
+Python script to parse through the files inside a zipfile without unzipping it and prints the results on terminal
