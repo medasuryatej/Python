@@ -18,3 +18,6 @@ The provided repo, has some sample images, annotations and their data in csv acc
 
 # About - SearchinZip.py
 Python script to parse through the files inside a zipfile without unzipping it and prints the results on terminal
+
+# About - build_Christmas_Tree.py
+Simple python code to generate christmas tree patterns
