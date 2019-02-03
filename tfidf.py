@@ -1,6 +1,6 @@
 # Pythonic way of implementing TF-IDF
 # TF - Term Frequency
-# IDF - Inverse Document Frequency
+# IDF - Inverse Data Frequency
 # TF-IDF - TF*IDF
 
 def computeTF(wordDict, bow):
