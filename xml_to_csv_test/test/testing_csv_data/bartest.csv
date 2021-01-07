@@ -1,4 +1,4 @@
-group,Arriving_Arrived,JBConnecting_Connected,BL_Connecting_connected,CT_connecting_connected,Chokes_attaching_attached
+group,Aircraft_Arrived,Jetbridge_Connected,BeltLoader_Connected,CateringTruck_Connected,Chocks_Attached
 1/1/2019,452.4093556,354.9915089,430.0524313,462.3701233,427.2253862
 1/2/2019,454.622075,373.1420517,401.4464199,379.3866322,332.5500505
 1/3/2019,405.7112634,423.2789099,442.7027911,495.8221973,341.4620263
